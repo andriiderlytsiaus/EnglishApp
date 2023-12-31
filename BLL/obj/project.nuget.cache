@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5DQcyeDNsYSY71NaFY4YEK10Mw+vAlxFKCGCdb9CF6JGyFmQzvevKU8FP9+Y54ZeOWIqjbse3WDyv6pbHJZPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
