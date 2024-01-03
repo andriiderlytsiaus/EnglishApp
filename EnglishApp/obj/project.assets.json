@@ -3773,24 +3773,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
+      "projectUniqueName": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
       "projectName": "EnglishApp",
-      "projectPath": "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
-      "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\EnglishApp\\obj\\",
+      "projectPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
+      "packagesPath": "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\EnglishApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Andrii Derlytsia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3798,15 +3793,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\andri\\OneDrive\\Desktop\\EnglishApp\\BLL\\BLL.csproj"
+            "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj"
             }
           }
         }
@@ -3877,7 +3872,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
