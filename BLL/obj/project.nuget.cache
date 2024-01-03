@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+0XOmze1be8qarl160V9cijh6W7Hi3bCI1pcuLT9ConGUKPCwEkvXzrkXqhsL4oP2NVzUSezkRCVpqiFc6hhAQ==",
+  "dgSpecHash": "fAD5Krobzrfrr/xvRFhmBfzFJPIFlks+sGGW5SZdBglhmEkepHJrT1Ef0u2i+LU9/oG7E4bgp3sOeRY2B4FzIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

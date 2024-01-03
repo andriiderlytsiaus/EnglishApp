@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+SQ90GR43otBxgpEnM0eLZihjXknDFLL6UMnGzkUBBiUlr9CfVzyGvOQvVFQsjZrOc3SBurVfT3wS5fdRUTWQ==",
+  "dgSpecHash": "ewbc+F8bzNRIBzo98k+87MIpk5tWWTatNoYBwNZwLAz6b/Y6cwrHPuc2IkUsyfcOA9HiIaMhbLoaGnUx+dl0IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
+  "projectFilePath": "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\EnglishApp\\EnglishApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

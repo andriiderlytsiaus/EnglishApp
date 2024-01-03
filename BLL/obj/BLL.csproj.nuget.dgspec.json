@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj": {}
+    "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj": {
+    "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Andrii Derlytsia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\Duplom\\EnglishApp\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\Andrii Derlytsia\\Desktop\\GitTest2\\EnglishApp\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrii Derlytsia\\AppData\\Roaming\\NuGet\\NuGet.Config",
